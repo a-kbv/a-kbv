@@ -1,1 +1,1 @@
-<h1 align="center">Think outside the ◙</h1>
+<h1 align="center">THINK OUTSIDE THE BOX</h1>
