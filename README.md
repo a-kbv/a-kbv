@@ -1,5 +1,5 @@
 ## Welcome to the code dungeons stranger <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="24px"> 
-## Portfolio: https://a-kbv.github.io
+### Portfolio: https://a-kbv.github.io
 <img width="35%" align="right" alt="Github" src="https://github.com/a-kbv/a-kbv/blob/main/dino.gif" />
 
 I'm a self taught computer programmer who is passionate about writing code, solving problems, automating stuff, building software and hardware.
@@ -10,10 +10,12 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 <br/>
 
 <a href="https://github.com/a-kbv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=a-kbv&theme=buefy&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-kbv&theme=buefy&layout=compact" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=a-kbv&theme=buefy&show_icons=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-kbv&theme=buefy&layout=compact" />
 </a>
 <br/>
+
+### Contact me or stalk 
 
 <a href="link to profile">
   <img align="left" alt="Atanas Korabov" width="22px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" />
