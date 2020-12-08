@@ -10,8 +10,8 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 <br/>
 
 <a href="https://github.com/a-kbv">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=a-kbv&theme=buefy&show_icons=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-kbv&theme=buefy&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=a-kbv&theme=buefy&show_icons=true" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-kbv&theme=buefy&layout=compact" />
 </a>
 <br/>
 
