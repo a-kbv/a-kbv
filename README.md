@@ -1,4 +1,4 @@
-## Welcome to the code dungeons stranger <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="24px"> 
+## Welcome <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="24px"> 
 ### Portfolio: https://a-kbv.github.io
 <img width="35%" align="right" alt="Github" src="https://github.com/a-kbv/a-kbv/blob/main/dino.gif" />
 
