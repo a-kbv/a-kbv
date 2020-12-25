@@ -14,7 +14,6 @@ I'm a self taught computer programmer who is passionate about writing code, solv
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-kbv&theme=buefy&layout=compact" />
 </a>
 <br/>
-
 ### Contact me or stalk 
 
 <a href="link to profile">
