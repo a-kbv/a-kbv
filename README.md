@@ -33,8 +33,7 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/a-kbv)](https://github.com/a-kbv) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/a-kbv)](https://github.com/a-kbv) 
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/a-kbv)](https://github.com/a-kbv) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/a-kbv)](https://github.com/a-kbv)
+[![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat&logo=php&link=https://github.com/a-kbv)](https://github.com/a-kbv) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/a-kbv)](https://github.com/a-kbv) 
 [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=git&link=https://github.com/a-kbv)](https://github.com/a-kbv) 
 
