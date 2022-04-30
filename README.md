@@ -2,10 +2,7 @@
 ### <a href="http://atanaskorabov.eu">Portfolio</a>
 <img width="35%" align="right" alt="Github" src="https://github.com/a-kbv/a-kbv/blob/main/dino.gif" />
 
-I'm a self taught computer programmer who is passionate about writing code, solving problems, automating stuff, building software and hardware.
-
-- 📚 I’m currently learning backend web development using Python
-- 👯 I’m looking for a software development internship. 
+I'm a self taught php developer
 
 <br/>
 
